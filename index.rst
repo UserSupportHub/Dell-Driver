@@ -4,7 +4,7 @@ Dell Drivers and Downloads – The Complete 2025 Guide
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://pre.im/?EakxeVBg7GbDKU697Ya8ZHah7KY9XuhVDgZVFtzQ26Fxd07THO5MeOhiwqKb50rhy3Ad52" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://www.dell.com/support/home/en-in?app=drivers" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             🔽 Download Dell Drivers
         </a>
     </div>
@@ -135,7 +135,7 @@ Keeping your Dell device up-to-date with the latest drivers is essential for lon
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://pre.im/?EakxeVBg7GbDKU697Ya8ZHah7KY9XuhVDgZVFtzQ26Fxd07THO5MeOhiwqKb50rhy3Ad52" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://www.dell.com/support/home/en-in?app=drivers" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             ✅ Support Center Dell Drivers & Downloads
         </a>
     </div>
